@@ -2,6 +2,7 @@
 
 | Kind        | Emoji                | Reference                                           |
 | :---------- | :------------------- | :-------------------------------------------------- |
+| Kubernetes  | ☸️ Wheel of Dharma   |                                                     | 
 | Cluster     | 🏬 Department Store  |                                                     |
 | Node        | 🛒 Shopping Trolley  |                                                     |
 | Pod         | 📦 Package           |                                                     |
